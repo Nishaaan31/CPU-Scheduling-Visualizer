@@ -6,7 +6,7 @@
 
 ## 🎬 Demo Video
 
-> **📺 YouTube Demo:** [▶ Watch the full demonstration here](https://www.youtube.com/watch?v=YOUR_LINK_HERE)
+> **📺 YouTube Demo:** [▶ Watch the full demonstration here](https://youtu.be/esBDcpgfj_U?si=MA8HIV5NC8X8mFu6)
 >
 > *(Replace the link above with your actual YouTube URL after uploading)*
 
